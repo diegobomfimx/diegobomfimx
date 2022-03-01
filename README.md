@@ -31,8 +31,8 @@ Sou um desenvolvedor Front-End com habilidades e conhecimento em UI/UX Design, b
   <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
 </p>
 
-### Empresas/Instituições que me ajudaram e ajudam desenvolver o meu "Eu Dev"
-**Creative Tim Courses/Tutorials**
+### Empresas/Instituições que me ajudaram e ajudam desenvolver o meu "Eu Dev":
+
 
 - [Tera](https://somostera.com/)
 - [Digital Innovation One](https://www.dio.me/)
