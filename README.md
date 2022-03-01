@@ -6,20 +6,16 @@ Aficionado por tecnologia desde a adolescência, tenho buscado melhorar cada vez
 
 Sou um desenvolvedor Front-End com habilidades e conhecimento em UI/UX Design, buscando experiência profissional na área.
 
+    - 👋 Hi, I’m Diego Ferreira
+    - 👀 I’m interested in ... Front-End Development and UI/UX Design
+    - 💞️ I’m looking to collaborate on any project related to Front-End Development
+
+
 ## Hobbies
 
  📚. Hobby 1 (Leitura)  
  💻. Hobby 2 (Programar) 
  
- 
- #include profile
- 
-  var list = profile {
-  
-    - 👋 Hi, I’m Diego Ferreira
-    - 👀 I’m interested in ... Front-End Development and UI/UX Design
-    - 💞️ I’m looking to collaborate on any project related to Front-End Development
-}
 
 ## Linguagens que trabalho e aperfeiçoo a cada dia
 <p>
