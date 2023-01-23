@@ -37,12 +37,13 @@ Sou um desenvolvedor Front-End com habilidades e conhecimento em UI/UX Design, b
 - [Tera](https://somostera.com/)
 - [Digital Innovation One](https://www.dio.me/)
 - [Creative Tim](https://www.creative-tim.com)
+- [Origamid](https://www.origamid.com/)
 
 ## Entre em contato comigo:
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/diegobomfimx)[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">](https://www.linkedin.com/in/diegobomfimx/)
 
 ---
-<p align="center"> © 2021 Diego Ferreira, all rights reserved. Made with ❤️ for a better web. </p>
+<p align="center"> © 2021 Diego Ferreira, all rights reserved.</p>
 
 
 </p>
