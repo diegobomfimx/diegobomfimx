@@ -9,8 +9,8 @@ Sou um desenvolvedor Front-End com um forte interesse em UI/UX Design. Estou em 
 
 ## Hobbies
 
-📚 Leitura: Um dos meus hobbies favoritos é mergulhar em livros e aprender novos conceitos e ideias.
-💻 Programação: Passo horas programando e explorando diferentes tecnologias para expandir meu conjunto de habilidades.
+- 📚 Leitura: Um dos meus hobbies favoritos é mergulhar em livros e aprender novos conceitos e ideias.
+- 💻 Programação: Passo horas programando e explorando diferentes tecnologias para expandir meu conjunto de habilidades.
  
 
 ## Linguagens e Tecnologias
