@@ -2,22 +2,23 @@
 
 ## Sobre mim 
 
-Aficionado por tecnologia desde a adolescência, tenho buscado melhorar cada vez mais o meu conhecimento.
+Olá! Meu nome é Diego Ferreira e sou um entusiasta da tecnologia desde a adolescência. Estou constantemente buscando aprimorar meu conhecimento e habilidades.
 
-Sou um desenvolvedor Front-End com habilidades e conhecimento em UI/UX Design, buscando experiência profissional na área.
-
-    - 👋 Hi, I’m Diego Ferreira
-    - 👀 I’m interested in ... Front-End Development and UI/UX Design
-    - 💞️ I’m looking to collaborate on any project related to Front-End Development
+Sou um desenvolvedor Front-End com um forte interesse em UI/UX Design. Estou em busca de oportunidades profissionais na área, visando colaborar em projetos relacionados ao desenvolvimento Front-End.
 
 
 ## Hobbies
 
- 📚. Hobby 1 (Leitura)  
- 💻. Hobby 2 (Programar) 
+📚 Leitura: Um dos meus hobbies favoritos é mergulhar em livros e aprender novos conceitos e ideias.
+💻 Programação: Passo horas programando e explorando diferentes tecnologias para expandir meu conjunto de habilidades.
  
 
-## Linguagens que trabalho e aperfeiçoo a cada dia
+## Linguagens e Tecnologias
+
+- HTML, CSS e JavaScript: Trabalho e aprimoro minhas habilidades nessas linguagens essenciais para o desenvolvimento Front-End.
+- Frameworks e Bibliotecas: Tenho experiência com frameworks como React e Vue.js, bem como bibliotecas populares como Bootstrap e Tailwind CSS.
+- Design Responsivo: Desenvolvo interfaces que se adaptam a diferentes dispositivos e tamanhos de tela.
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -26,6 +27,10 @@ Sou um desenvolvedor Front-End com habilidades e conhecimento em UI/UX Design, b
 </p>
 
 ## Ferramentas que utilizo:
+
+- Versionamento de Código: Utilizo Git para controle de versão e Github para hospedar meus projetos.
+- Task Runners e Bundlers: Utilizo ferramentas como Webpack e Gulp para automatizar tarefas e criar pacotes otimizados.
+- Editores de Código: Trabalho com editores como Visual Studio Code, garantindo uma experiência de desenvolvimento produtiva.
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
@@ -34,7 +39,6 @@ Sou um desenvolvedor Front-End com habilidades e conhecimento em UI/UX Design, b
 ### Empresas/Instituições que me ajudaram e ajudam desenvolver o meu "Eu Dev":
 
 
-- [Tera](https://somostera.com/)
 - [Digital Innovation One](https://www.dio.me/)
 - [Creative Tim](https://www.creative-tim.com)
 - [Origamid](https://www.origamid.com/)
