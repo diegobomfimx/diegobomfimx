@@ -34,7 +34,9 @@ Sou um desenvolvedor Front-End com um forte interesse em UI/UX Design. Estou em 
 - Editores de Código: Trabalho com editores como Visual Studio Code, garantindo uma experiência de desenvolvimento produtiva.
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
+  <img src= "https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
+  <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" />
+ <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ### Empresas/Instituições que me ajudaram e ajudam desenvolver o meu "Eu Dev":
